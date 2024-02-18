@@ -29,7 +29,6 @@ function criaCalculadora() {
                 this.display.value = String(conta)
             } catch(e) {
                 alert('Conta inválida')
-                return
             }
         },
 
